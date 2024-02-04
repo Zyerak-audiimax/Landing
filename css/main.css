@@ -9,9 +9,9 @@ h3{
 }
 
 .email{
-    border-radius: 50px;
-    border-color: blue;
-    border-width: 3px;
+    border-radius: 50px !important;
+    border-color: rgba(255,255,255,0.2);
+    border-width: 2px;
     color:white;
     background-color: transparent;
 }
@@ -25,7 +25,15 @@ h3{
 }
 
 .signup{
-    background-color:blue;
+    background-color:rgba(255,255,255,0.2);
     border-radius:50px !important;
-    margin-left: -30px !important;
+    margin-left: -184px !important;
+    color:white;
+    font-size: 30px;
+    padding:10px 40px 10px 40px;
+    margin:2px;
+}
+
+.logo{
+    width:27% !important;
 }
