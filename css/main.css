@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+    background-image: url(../img/bgk.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    color:white;
+}
+
+.email{
+    border-radius: 50px;
+    border-color: blue;
+    border-width: 3px;
+    color:white;
+    background-color: transparent;
+}
+.email:focus{
+    background-color: transparent;
+    color:white;
+}
+.email::placeholder{
+    color:white;
+    background-color: transparent;
+}
+
+.signup{
+    background-color:blue;
+    border-radius:50px !important;
+    margin-left: -30px !important;
+}
