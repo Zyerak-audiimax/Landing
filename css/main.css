@@ -4,8 +4,28 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-h3{
+h1{
     color:white;
+}
+
+.header{
+    font-size: 45px;
+}
+
+.subtitle{
+    font-size: 33px;
+    color: white;
+}
+
+.spacer{
+    margin-top:20%;
+}
+
+
+.line{
+    border-bottom: 1px #fff solid;
+    width: 80%;
+    margin:auto;
 }
 
 .email{
@@ -25,15 +45,16 @@ h3{
 }
 
 .signup{
-    background-color:rgba(255,255,255,0.2);
+    background-color:rgba(134, 183, 247, 0.2);
+    /* background-color:rgba(255, 255, 255, 0.2); */
     border-radius:50px !important;
     margin-left: -184px !important;
     color:white;
-    font-size: 30px;
-    padding:10px 40px 10px 40px;
+    font-size: 25px;
+    padding:15px 60px 15px 60px;
     margin:2px;
 }
 
 .logo{
-    width:27% !important;
+    width:28% !important;
 }
