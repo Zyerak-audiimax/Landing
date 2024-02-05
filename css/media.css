@@ -214,10 +214,12 @@
     .col-6, .col-9 {
         width: 80%;
     }
-
     .col-4{
+        width: 50%;
+    }
+    .footer{
         text-align: center !important;
-        width: 100%;
+        width: 50%;
     }
     .mt-5{
         margin-top:20px !important;
@@ -225,9 +227,13 @@
     .mb-5{
         margin-bottom:20px !important;
     }
-    .line_white, .line_blue{
+    .line_white{
         width: 95%;
         margin-bottom:10%;
+    }
+
+    .line_blue{
+        width: 95%;
     }
     .email{
         font-size: 20px;
@@ -242,15 +248,13 @@
         font-size: 20px;
         padding:10px 40px 10px 40px;
     }
-    /* .footer-text, .content-right{
-        text-align: center !important;
-        font-size: 20px;
-    } */
+
     .emailUs, .emailUs:hover{
         font-size: 20px;
         padding:10px 40px 10px 40px;
         margin-top:20px;
     }
+
 }
 
 @media screen and (min-width: 992px) and ( max-width: 1199px){
