@@ -1,0 +1,371 @@
+@media screen and (max-width: 375px){
+    .logo{
+        width:70% !important;
+    }
+    .background{
+        background-size: calc(330%);
+        background-position: 63% 10%;
+        margin-bottom:-70px;
+    }
+    .spacer{
+        margin-bottom:100px;
+    }
+    .header{
+        font-size: 22px;
+    }
+    .subtitle{
+        font-size:18px;
+    }
+    .descripotion{
+        font-size: 18px;
+    }
+    .col-4, .col-6, .col-9 {
+        width: 100%;
+    }
+
+    .col-4{
+        text-align: center !important;
+    }
+    .mt-5{
+        margin-top:15px !important;
+    }
+    .mb-5{
+        margin-bottom:15px !important;
+    }
+    .line_white, .line_blue{
+        width: 95%;
+        margin-bottom:4%;
+    }
+    .email{
+        font-size: 15px;
+        text-indent: 5px;
+    }
+    .email::placeholder{
+        font-size: 15px;
+        text-indent: 5px;
+    }
+    .signup, .signup:hover{
+        margin-left: -116px !important;
+        font-size: 15px;
+        padding:5px 30px 5px 30px;
+    }
+    .footer-text, .content-right{
+        text-align: center !important;
+        font-size: 15px;
+    }
+    .emailUs, .emailUs:hover{
+        font-size: 15px;
+        padding:5px 30px 5px 30px;
+        margin-top:20px;
+    }
+}
+
+@media screen and (min-width: 376px) and ( max-width: 500px){
+    .logo{
+        width:70% !important;
+    }
+    .background{
+        background-size: calc(285%);
+        background-position: 65% 10%;
+        margin-bottom:-70px;
+    }
+    .spacer{
+        margin-bottom:100px;
+    }
+    .header{
+        font-size: 30px;
+    }
+    .subtitle{
+        font-size:25px;
+    }
+    .descripotion{
+        font-size: 25px;
+    }
+    .col-4, .col-6, .col-9 {
+        width: 100%;
+    }
+
+    .col-4{
+        text-align: center !important;
+    }
+    .mt-5{
+        margin-top:20px !important;
+    }
+    .mb-5{
+        margin-bottom:20px !important;
+    }
+    .line_white, .line_blue{
+        width: 95%;
+        margin-bottom:10%;
+    }
+    .email{
+        font-size: 20px;
+        text-indent: 10px;
+    }
+    .email::placeholder{
+        font-size: 20px;
+        text-indent: 10px;
+    }
+    .signup, .signup:hover{
+        margin-left: -154px !important;
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+    }
+    .footer-text, .content-right{
+        text-align: center !important;
+        font-size: 20px;
+    }
+    .emailUs, .emailUs:hover{
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+        margin-top:20px;
+    }
+}
+
+@media screen and (min-width: 501px) and ( max-width: 767px){
+    .logo{
+        width:calc(50%) !important;
+    }
+    .background{
+        background-size: calc(230%);
+        background-position: 63% 0%;
+        margin-bottom:-70px;
+    }
+    .spacer{
+        margin-bottom:100px;
+    }
+    .header{
+        font-size: calc(210%);
+    }
+    .subtitle{
+        font-size:calc(150%);
+    }
+    .descripotion{
+        font-size: 25px;
+    }
+    .col-6, .col-9 {
+        width: 80%;
+    }
+
+    .col-4{
+        text-align: center !important;
+        width: 100%;
+    }
+    .mt-5{
+        margin-top:20px !important;
+    }
+    .mb-5{
+        margin-bottom:20px !important;
+    }
+    .line_white, .line_blue{
+        width: 95%;
+        margin-bottom:10%;
+    }
+    .email{
+        font-size: 20px;
+        text-indent: 10px;
+    }
+    .email::placeholder{
+        font-size: 20px;
+        text-indent: 10px;
+    }
+    .signup, .signup:hover{
+        margin-left: -154px !important;
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+    }
+    .footer-text, .content-right{
+        text-align: center !important;
+        font-size: 20px;
+    }
+    .emailUs, .emailUs:hover{
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+        margin-top:20px;
+    }
+}
+
+@media screen and (min-width: 768px) and ( max-width: 991px){
+
+    .container{
+        width:73%;
+    }
+
+    .logo{
+        width:calc(50%) !important;
+    }
+    .background{
+        background-size: calc(200%);
+        background-position: 63% 0%;
+        margin-bottom:-70px;
+    }
+    .spacer{
+        margin-bottom:100px;
+    }
+    .header{
+        font-size: calc(210%);
+    }
+    .subtitle{
+        font-size:calc(150%);
+    }
+    .descripotion{
+        font-size: 25px;
+    }
+    .col-6, .col-9 {
+        width: 80%;
+    }
+
+    .col-4{
+        text-align: center !important;
+        width: 100%;
+    }
+    .mt-5{
+        margin-top:20px !important;
+    }
+    .mb-5{
+        margin-bottom:20px !important;
+    }
+    .line_white, .line_blue{
+        width: 95%;
+        margin-bottom:10%;
+    }
+    .email{
+        font-size: 20px;
+        text-indent: 10px;
+    }
+    .email::placeholder{
+        font-size: 20px;
+        text-indent: 10px;
+    }
+    .signup, .signup:hover{
+        margin-left: -154px !important;
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+    }
+    /* .footer-text, .content-right{
+        text-align: center !important;
+        font-size: 20px;
+    } */
+    .emailUs, .emailUs:hover{
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+        margin-top:20px;
+    }
+}
+
+@media screen and (min-width: 992px) and ( max-width: 1199px){
+
+    .container{
+        width:73%;
+    }
+
+    .logo{
+        width:calc(35%) !important;
+    }
+    .background{
+        background-size: calc(150%);
+        background-position: 67% 0%;
+        margin-bottom:-70px;
+    }
+    .spacer{
+        margin-bottom:100px;
+    }
+    .header{
+        font-size: 40px;
+    }
+    .subtitle{
+        font-size:30px;
+    }
+    .descripotion{
+        font-size: 25px;
+    }
+    .col-6{
+        width: 60%;
+    }
+    .col-4{
+        text-align: center !important;
+        width: 50%;
+    }
+
+    .line_white, .line_blue{
+        width: 85%;
+        margin-bottom:10%;
+    }
+    .email{
+        font-size: 23px;
+        text-indent: 10px;
+    }
+    .email::placeholder{
+        font-size: 23px;
+        text-indent: 10px;
+    }
+    .signup, .signup:hover{
+        margin-left: -164px !important;
+        font-size: 23px;
+        padding:10px 40px 10px 40px;
+    }
+    /* .footer-text, .content-right{
+        text-align: center !important;
+        font-size: 20px;
+    } */
+    .emailUs, .emailUs:hover{
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+        margin-top:20px;
+    }
+}
+
+
+@media screen and (min-width: 1200px){
+
+    .container{
+        width:73%;
+    }
+
+    .logo{
+        width:calc(28%) !important;
+    }
+    .background{
+        margin-bottom:-140px;
+    }
+    .spacer{
+        margin-top:25%;
+        margin-bottom:180px;
+    }
+    .header{
+        font-size: 45px;
+    }
+    .subtitle{
+        font-size:33px;
+    }
+    .descripotion{
+        font-size: 25px;
+    }
+
+    /* .line_white{
+        width: 80%;
+        margin-bottom:10%;
+    } */
+    .email{
+        font-size: 23px;
+        text-indent: 10px;
+    }
+    .email::placeholder{
+        font-size: 23px;
+        text-indent: 10px;
+    }
+    .signup, .signup:hover{
+        margin-left: -164px !important;
+        font-size: 23px;
+        padding:10px 40px 10px 40px;
+    }
+    /* .footer-text, .content-right{
+        text-align: center !important;
+        font-size: 20px;
+    } */
+    .emailUs, .emailUs:hover{
+        font-size: 20px;
+        padding:10px 40px 10px 40px;
+        /* margin-top:20px; */
+    }
+}
