@@ -157,9 +157,12 @@
     .mb-5{
         margin-bottom:20px !important;
     }
-    .line_white, .line_blue{
+    .line_white{
         width: 95%;
         margin-bottom:10%;
+    }
+    .line_blue{
+        width: 95%;
     }
     .email{
         font-size: 20px;
@@ -291,9 +294,12 @@
         width: 50%;
     }
 
-    .line_white, .line_blue{
+    .line_white{
         width: 85%;
         margin-bottom:10%;
+    }
+    .line_blue{
+        width: 85%;
     }
     .email{
         font-size: 23px;
@@ -308,10 +314,7 @@
         font-size: 23px;
         padding:10px 40px 10px 40px;
     }
-    /* .footer-text, .content-right{
-        text-align: center !important;
-        font-size: 20px;
-    } */
+
     .emailUs, .emailUs:hover{
         font-size: 20px;
         padding:10px 40px 10px 40px;
